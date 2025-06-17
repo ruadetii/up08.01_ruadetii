@@ -1,0 +1,104 @@
+* {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.new1 {
+    background: url("../img/bts1.jpg");
+    width: 400px;
+    height: 200px;
+    background-size: cover;
+    border: solid black;
+}
+.new2 {
+    background: url(../img/cccccc.jpg);
+    width: 400px;
+    height: 200px;
+    background-size: cover; 
+    border: solid black;   
+}
+.new3 {
+    background: url(../img/jungook.png);
+    width: 400px;
+    height: 200px;
+    background-size: cover;
+    border: solid black;
+}
+.nav1 {
+    background: url(../img/BOOTSTRAP-eng.jpg);
+    width: 300px;
+    height: 200px;
+    background-size: cover;
+}
+.nav2 {
+    background: url(../img/–≤–Р–£¬ђвИЮ-–≤–Р–£вАУвЙ†–≤–Р–£вАУ–Ф–≤–Р–£вАУ–Ц—Ы–Ш–≤–Р–£вАУ–Ъ–≤–Р–£вАФ–©–≤–Р–£вАУ–Ъ–≤–Р–£–≤–ШћЖ¬І-html-eng.jpg);
+    width: 300px;
+    height: 200px;
+    background-size: cover; 
+}
+.nav3 {
+    background: url(../img/afisha.webp);
+    width: 200px;
+    height: 300px;
+    background-size: cover;
+    border: solid black;
+
+}
+.nav4 {
+    background: url(../img/izobrashenie.jpeg);
+    width: 200px;
+    height: 300px;
+    background-size: cover;
+    border: solid black;
+
+}
+.nav5 {
+    background: url(../img/animation.jpeg);
+    width: 200px;
+    height: 300px;
+    background-size: cover;
+    border: solid black;
+
+}
+body {
+    background: rgb(187, 187, 187);
+}
+h1 {
+    font-size: 24px;
+    
+
+}
+h2 {
+    font-size: 20px;
+}
+h3 {
+    font-size: 18px;
+}
+ul li{
+    display: inline;
+}
+ul{
+    background: rgb(151, 151, 151);
+    
+}
+li{
+    padding: 10px;
+}
+.content {
+    display: flex;
+}
+main{
+    width: 70%;
+}
+aside{
+    width: 30%;
+}
+.content2 {
+    display: flex;
+}
+
+.content3 {
+    display: flex;   
+}
+article {
+    width: 50%;
+}

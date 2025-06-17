@@ -1,0 +1,126 @@
+ul li {
+    display: inline-block;
+    background: pink;
+    height: 50px;
+    width: 40px;
+    text-align: center;
+    line-height: 50px;
+    margin: 15px;
+}
+.links{
+    a{
+        color: white;
+        background: blue;
+        text-decoration: none;
+        display: block;
+        height: 40px;
+        width: 200px;
+        margin: 5px;
+        padding-left: 10px;
+        line-height: 40px;
+    }
+}
+.blocks{
+    div{
+        height: 50px;
+        width: 40px;
+        background: red;
+        margin: 20px;
+        text-align: center;
+        line-height: 50px;
+        display: inline-block;
+    } 
+    .non{
+        display: none;
+    }
+}
+.links-markers{
+    background: black;
+    width: 180px;
+
+    a{
+        display: list-item;
+        color: white;
+        line-height: 25px;
+    }
+}
+.image{
+    height: 80px;
+    width: 110px;
+    background: url(../pr9/img/weather-sun.jpg);
+    margin: 10px;
+}
+.post1{
+    background: #930303;
+    h2{
+        color: white;      
+    }
+    div{
+        color: white;
+    }
+    .image{
+        float: left;
+    }
+}
+.post2{
+    background: #930303;
+    h2{
+        color: white;      
+    }
+    div{
+        color: white;
+    }
+    .image{float: right;} 
+}
+.k1{
+    background: url(../pr9/img/weather-sun.jpg);
+    height: 80px;
+    width: 110px;
+}
+.k2{
+    background: url(../pr9/img/weather-snow.jpg);
+    height: 80px;
+    width: 110px;
+}
+.k3{
+    background: url(../pr9/img/weather-blizzard.jpg);
+    height: 80px;
+    width: 110px;
+}
+.samos{
+    display: flex;
+    p{
+        text-align: center;
+        font-size: 35px;
+    }
+    div{
+        text-align: center;
+                
+    }
+    h4{
+        background: rgb(0, 113, 128);
+        color: white;
+        height: 30px;
+        line-height: 30px;
+        font-size: 25px;
+    }
+}
+.f1{
+    margin: 3px;
+}
+.f2{
+    margin: 3px;
+}
+.f3{
+    margin: 3px;
+}
+
+
+
+
+
+
+
+
+
+

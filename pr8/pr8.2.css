@@ -1,0 +1,48 @@
+nav{
+    border: 1px solid black;
+    margin: 30px;
+}
+.wraper{
+    width: 80%;
+    margin: 0 auto;
+}
+.photo1{
+    background: url(./img/1.png);
+    height: 120px;
+    width: 220px;
+    margin: 20px;
+    border: 2px solid black;
+    float: left;
+    
+}
+.photo2{
+    background: url(../pr8/img/2.png);
+    height: 120px;
+    width: 220px;
+    margin: 20px;
+    border: 2px solid black;
+    float: left;
+}
+.photo3{
+    background: url(../pr8/img/3.png);
+    height: 120px;
+    width: 220px;
+    margin: 20px;
+    border: 2px solid black;
+    float: left;
+}
+h4{
+    text-align: right;
+    margin: 40px;
+}
+p{
+    margin: 20px;
+    line-height: 30px;
+    text-align: justify;
+}
+h2{
+    margin: 20px;
+}
+main nav h4 a{
+    text-decoration: none;
+}

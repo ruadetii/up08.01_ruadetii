@@ -1,0 +1,236 @@
+section{
+    width: 60%;
+    margin: 0 auto;
+    
+}
+.ph1{
+    background: url(../pr11/img/–°–љ–Є–Љ–Њ–Ї\ —Н–Ї—А–∞–љ–∞\ 2025-05-28\ –≤\ 14.45.48.png);
+    width: 220px;
+    height: 310px;
+    border: 2px solid black;
+    border-radius: 10px;
+    }
+.ph2{
+    background: url(../pr11/img/–°–љ–Є–Љ–Њ–Ї\ —Н–Ї—А–∞–љ–∞\ 2025-05-28\ –≤\ 14.52.38.png);
+    width: 220px;
+    height: 310px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.ph3{
+    background: url(../pr11/img/–°–љ–Є–Љ–Њ–Ї\ —Н–Ї—А–∞–љ–∞\ 2025-05-28\ –≤\ 14.57.02.png);
+    width: 220px;
+    height: 310px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.ph4{
+    background: url(../pr11/img/–°–љ–Є–Љ–Њ–Ї\ —Н–Ї—А–∞–љ–∞\ 2025-05-28\ –≤\ 16.01.38.png);
+    width: 220px;
+    height: 310px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.ph5{
+    background: url(../pr11/img/–°–љ–Є–Љ–Њ–Ї\ —Н–Ї—А–∞–љ–∞\ 2025-05-28\ –≤\ 16.04.21.png);
+    width: 220px;
+    height: 310px;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+.ph6{
+    background: url(../pr11/img/–°–љ–Є–Љ–Њ–Ї\ —Н–Ї—А–∞–љ–∞\ 2025-05-28\ –≤\ 16.07.55.png);
+    width: 220px;
+    height: 310px;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+section{
+    display: flex;
+    
+}
+article p{
+    text-align: center;
+}
+article div{
+    margin: auto;
+}
+article h4 a{
+    vertical-align: 30px;
+    color: white;
+    text-decoration: none;
+}
+article h4{
+    text-align: center;
+    width: 100px;
+    height: 30px;
+    background: black;
+    line-height: 30px;
+    border-radius: 10px;
+    
+}
+article h4:hover{
+    background: white;
+    border-radius: 10px;
+    border: black;
+    a{
+        color: grey;
+    }
+}
+article{
+    margin: 10px;
+    
+}
+footer{
+    background: gray;
+    height: 60px;
+}
+.card1{
+    background: rgb(255, 116, 132);
+    height: 550px;
+    width: 300px;
+    margin: 20px;
+    border-radius: 10px;
+}
+.card2{
+    background: rgb(255, 116, 132);
+    height: 550px;
+    width: 300px;
+    margin: 20px;
+    border-radius: 10px
+}
+.card3{
+    background: rgb(255, 116, 132);
+    height: 550px;
+    width: 300px;
+    margin: 20px;
+    border-radius: 10px
+}
+.card4{
+    background: rgb(255, 116, 132);
+    height: 550px;
+    width: 300px;
+    margin: 20px;
+    border-radius: 10px
+}
+.card5{
+    background: rgb(255, 116, 132);
+    height: 550px;
+    width: 300px;
+    margin: 20px;
+    border-radius: 10px
+}
+.card6{
+    background: rgb(255, 116, 132);
+    height: 550px;
+    width: 300px;
+    margin: 20px;
+    border-radius: 10px
+}
+.sale{
+    background: rgb(255, 97, 18);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 5px;
+    text-align: center;
+    line-height: 50px;
+    float: right;
+    color: white;
+}
+.new{
+    background: rgb(21, 238, 144);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 5px;
+    text-align: center;
+    line-height: 50px;
+    float: right;
+    color: white;
+}
+.old{
+    color: rgb(72, 72, 72);
+    text-decoration: line-through;
+}
+.cena{
+    display: flex;
+}
+.rating{
+    display: inline-block;
+    font-size: 0;
+    
+    
+}
+.rating span{
+    padding: 0;
+    font-size: 20px;
+    line-height: 1;
+    color: rgb(195, 195, 195);
+}
+.rating > span::before {
+    content: '★';
+}
+.rating > span.active{
+    color: gold;
+}
+.rate{
+    display: flex;
+align-items: center;
+}
+.like{
+    height: 30px;
+    width: 30px;
+    color: white;
+    background: red;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 30px;
+    border: 1px solid black;
+}
+.like:hover{
+    background: white;
+    color: red;
+}
+header{
+    background: gray;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+header .logo{
+    height: 100px;
+    width: 100px;
+    background: url(../pr11/img/20230918190243_7e957037-e7b5-463a-8483-7ea7c61b8ef3.png.webp);
+    background-size: cover;
+}
+header h1{
+    text-align: center;
+    line-height: 100px;
+    margin: 0;
+}
+header ul{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    list-style-type: none;
+}
+header ul li a{
+    display: block;
+    background: grey;
+    padding: 10px;
+    margin: 30px 10px 0;
+    text-decoration: none;
+    color: black;
+
+}
+header ul li a:hover{
+    background: rgb(184, 184, 184);
+}
+
+
+    
+
+

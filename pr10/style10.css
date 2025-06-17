@@ -1,0 +1,67 @@
+*{
+    color: white;   
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.content1{
+    width: 60%;
+    margin: 0 auto;
+}
+.photo1 {
+    background: url(../pr10/img/Mask\ Group.png);
+    width: 310px;
+    height: 380px;
+    text-align: center;
+    background-size: cover;
+    margin: auto;
+}
+.card {
+    background: rgb(19, 19, 19);
+    width: 370px;
+    height: 529px;
+    background-size: cover;
+    
+    
+}
+.photo2 {
+    background: url(../pr10/img/Mask\ Group\ \(1\).png);
+    width: 310px;
+    height: 380px;
+    background-size: cover;
+    margin: auto;
+}
+.card2 {
+    background: rgb(19, 19, 19);
+    width: 370px;
+    height: 529px;
+    background-size: cover;
+}
+.photo3 {
+    background: url(../pr10/img/image\ 61.png);
+    width: 310px;
+    height: 380px;
+    background-size: cover;
+    margin: auto;
+}
+.card3 {
+    background: rgb(19, 19, 19);
+    width: 370px;
+    height: 529px;
+    background-size: cover;
+}
+body {
+    background: black;
+}
+.content {
+    display: flex;
+}
+article{
+    margin: 10px;
+}
+article h2{
+    text-align: center;
+}
+article p{
+    text-align: center;
+}
+
+

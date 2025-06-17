@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../../../styles/style.css">
+</head>
+<body>
+    <header>
+        <h1>Персональный сайт Радостевой Анны Алексеевны</h1>
+        <nav>
+            <ul>
+                <li><a href="../../../index.html">Главная</a></li>
+                <li><a href="../../news.html">Новости</a></li>
+                <li><a href="../../personal.html">Личный кабинет</a></li>
+                <li><a href="../work.html">Мои работы</a></li>
+                
+                <li><a href="../pages/login.html">Вход</a></li>
+                <li><a href="../pages/register.html">Регистрация</a></li>
+            </ul>
+        </nav>      
+    </header>
+    <main>
+        <form method="post" action="../../../index.html">
+        <h2>Регистрация</h2>
+        <p>
+            Имя <br>
+            <input name="name" size="30">
+        </p>
+        <p>
+            Фамилия <br>
+            <input name="familiya" size="30">
+        </p>
+        <p>
+            Отчество <br>
+            <input name="otchestvo" size="30">
+        </p>
+        <p> Введите логин <br>
+            <input name="login" size="30" >
+        </p>
+        <p> Придумайте пароль <br>
+            <input type="password" name="txtName" size="10" maxlength="5">
+        </p>
+        <p> Подтвердите пароль <br>
+            <input type="password" name="txtName" size="10" maxlength="5">
+        </p>
+        <p> Дата рождения <br>
+            <input type="date" size="30" >
+        </p> 
+        <p> Согласие на обработку персональных данных <br>
+            <input name="sogl" type="checkbox" value="sogl" checked >
+            <label>Даю согласие</label>
+            <input name="otk" type="checkbox" value="otk" checked >
+            <label>Отказываюсь</label>
+            <p> <input type="submit" value="Зарегистрироваться"></p> <p> <input type="reset" value="Сбросить"></p>
+        </p>
+    </form>
+    </main>
+    <footer>
+        <p>&copy;ruadetii</p>
+    </footer>   
+</body>
+</html>
