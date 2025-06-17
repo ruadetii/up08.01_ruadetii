@@ -1,0 +1,581 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background: rgb(174, 174, 174);   
+}
+.input2 {
+    border-width: 2px;
+    border-color: rgb(245, 245, 245);
+    border-style: solid;
+    border-radius: 4px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 514px;
+    top: 542px;
+    width: 268px;
+    height: 46px;
+    
+  }
+  .input1 {
+    border-width: 2px;
+    border-color: rgb(245, 245, 245);
+    border-style: solid;
+    border-radius: 4px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 115px;
+    top: 542px;
+    width: 367px;
+    height: 46px;
+    
+  }
+h1 {
+    font-size: 47.474px;
+    color: rgb(255, 255, 255);
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 356.558px;
+    top: 352.516px;
+    
+  }
+  .a1{
+    background: url(../pr16/img/1car_page-0001.jpg);
+    position: absolute;
+    left: 0px;
+    top: 135px;
+    width: 1400px;
+    height: 685px;
+    background-size: cover;
+  }
+  .p1{
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 397.588px;
+    top: 444.533px;
+    
+  }
+  .input3 {
+    border-width: 2px;
+    border-color: rgb(245, 245, 245);
+    border-style: solid;
+    border-radius: 4px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 814px;
+    top: 542px;
+    width: 268px;
+    height: 46px;
+    
+  }
+  .btn {
+    border-radius: 6px;
+    background-color: rgb(62, 198, 255);
+    position: absolute;
+    left: 1113px;
+    top: 542px;
+    width: 172px;
+    height: 50px;
+    color: white;
+  }
+ header {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1400px;
+    height: 115px;
+  }
+  .TakeMe {
+    font-size: 48px;
+    font-family: "KaushanScript";
+    color: rgb(62, 198, 255);
+    text-align: right;
+    position: absolute;
+    left: 114.73px;
+    line-height: 25px;
+  }
+ul{
+    padding: 0;
+    margin: 0;
+}
+#li{
+    display: inline-block;
+}
+header li, header li a{
+    display: inline-block;
+}
+header li a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 20px;
+}
+header li a:hover{
+    background: rgb(174, 174, 174);
+    color: black;}
+.nav{
+    right: 20px;
+    position: absolute;
+}
+header .nav{
+    line-height: 85px;
+}
+.a2 {
+    background-color: rgb(246, 246, 246);
+    position: absolute;
+    left: 0px;
+    top: 840px;
+    width: 1400px;
+    height: 638px;
+    display: flex;
+    justify-content: center;
+  }
+.card{
+    width: 371px;
+    height: auto;
+    margin: auto;
+}
+.a2f{
+    background: url(../pr16/img/img10.jpg);
+    width: 371px;
+    height: 260px;
+    background-size: cover;
+}
+.a2f2{
+    background: url(../pr16/img/2.jpg);
+    width: 371px;
+    height: 260px;
+    background-size: cover;
+}
+.a2f3{
+    background: url(../pr16/img/a2f3_page-0001.jpg);
+    width: 371px;
+    height: 260px;
+    background-size: cover;
+}
+.card h2{
+    color: rgb(76, 76, 76);
+}
+.card p{
+    color: gray;
+}
+.rating{
+    display: inline-block;
+    font-size: 0;
+    
+}
+.rating span{
+    padding: 0;
+    font-size: 20px;
+    line-height: 1;
+    color: transparent;
+    -webkit-text-stroke: 1px gold;
+}
+.rating > span::before {
+    content: '★';
+}
+.rating > span.active{
+    color: gold;
+}
+.rate{
+    display: flex;
+align-items: center;
+
+}
+.rate2{
+align-items: center;
+text-align: right;
+margin: 10px;
+margin-top: 15px;
+
+}
+.rt{
+    margin-left: 175px;
+}
+.a3 {
+  background-color: rgb(246, 246, 246);
+  position: absolute;
+  left: 0px;
+  top: 1498px;
+  width: 1400px;
+  height: 412px;
+  display: flex;
+  justify-content: center;
+  p{
+    color: white;
+  }
+  h2{
+    color: white;
+  }
+  
+}
+.a3f1{
+    background: url(../pr16/img/img3.png);
+    height: 260px;
+    width: 371px;
+    background-size: cover;
+    margin: 40px;
+    margin-top: 80px;
+}
+.a3f2{
+    background: url(../pr16/img/img4.png);
+    height: 260px;
+    width: 371px;
+    background-size: cover;
+    margin: 40px;
+    margin-top: 80px;
+}
+.a3f3{
+    background: url(../pr16/img/img5.png);
+    height: 260px;
+    width: 371px;
+    background-size: cover;
+    margin: 40px;
+    margin-top: 80px;
+}
+.f31f{
+    align-items: center;
+text-align: right;
+margin: 10px;
+margin-top: 15px;
+}
+.ot{
+    margin-top: 100px;
+    margin-left: 15px;
+}
+.a4{
+    background-color: rgb(246, 246, 246);
+    position: absolute;
+    left: 0px;
+    top: 1930px;
+    width: 1400px;
+    height: 280px;
+    display: flex;
+     
+}
+.text{
+    width: 547px;
+    margin-left: 116px;
+    margin-top: 60px;
+    color: gray;
+    h2{
+        font-size: 35px;
+    }
+}
+.btn4 {
+    border-radius: 6px;
+    background-color: rgb(62, 198, 255);
+    width: 272px;
+    height: 50px;
+    margin-top: 115px;
+    margin-left: 200px;
+    color: white;
+  }
+.a5 {
+    background-color: rgb(246, 246, 246);
+    position: absolute;
+    left: 0px;
+    top: 2230px;
+    width: 1400px;
+    height: 670px;
+    display: flex;
+  }
+
+
+.forma{
+    margin-left: 114px;
+}
+.input22 {
+    border-radius: 4px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 414px;
+    top: 186px;
+    width: 272px;
+    height: 50px;
+    border-style: solid;
+  }
+.input12 {
+    border-radius: 4px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 115px;
+    top: 186px;
+    width: 271px;
+    height: 50px;
+    border-style: solid;
+  }
+.input32 {
+    border-radius: 4px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 115px;
+    top: 289px;
+    width: 271px;
+    height: 50px;
+    border-style: solid;
+  }
+.input42 {
+    border-radius: 4px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 414px;
+    top: 289px;
+    width: 272px;
+    height: 50px;
+    border-style: solid;
+  }
+.input52 {
+    border-radius: 4px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 115px;
+    top: 391px;
+    width: 571px;
+    height: 129px;
+    border-style: solid;
+  }
+  .First_Name {
+    font-size: 14px;
+    color: rgb(134, 134, 134);
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 117.172px;
+    top: 151px;
+    
+  }
+  .Last_Name {
+    font-size: 14px;
+    color: rgb(134, 134, 134);
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 416.781px;
+    top: 151px;
+  }
+  .Email {
+    font-size: 14px;
+    color: rgb(134, 134, 134);
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 114.898px;
+    top: 255px;
+  }
+  .Phone {
+    font-size: 14px;
+    color: rgb(134, 134, 134);
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 414.006px;
+    top: 255px;
+  }
+  .Message {
+    font-size: 14px;
+    color: rgb(134, 134, 134);
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 116.901px;
+    top: 360px;
+  }
+  .Contact_Us {
+    font-size: 47.474px;
+    color: rgb(134, 134, 134);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: right;
+    position: absolute;
+    left: 115px;
+    top: 40px;
+  }
+  .btn5 {
+    border-radius: 6px;
+    background-color: rgb(62, 198, 255);
+    position: absolute;
+    left: 414px;
+    top: 560px;
+    width: 272px;
+    height: 50px;
+    color: white;
+  }
+.pl{
+    background: url(../pr16/img/kkk_page-0001.jpg);
+    position: absolute;
+    left: 813px;
+    width: 587px;
+    height: 670px;
+    background-size: cover;
+  }
+  .bg {
+    background-color: rgb(246, 246, 246);
+    position: absolute;
+    left: 0px;
+    top: 2900px;
+    width: 1400px;
+    height: 470px;
+    z-index: 3;
+  }
+footer{
+    background-color: rgb(246, 246, 246);
+    position: absolute;
+    left: 0px;
+    top: 2900px;
+    width: 1400px;
+    height: 470px;
+    display: flex;
+    
+  }
+.a6{
+    display: flex;
+    div{
+        margin-left: 115px;
+        margin-top: 80px;
+    }
+    h3{
+        color: rgb(76, 76, 76);
+    }
+}
+.navf2 ul li a{
+    text-decoration: none;
+    color: gray;
+}
+.a7{
+    margin-left: 140px;
+    margin-top: 80px;
+    h3{
+        color: rgb(76, 76, 76);
+    }
+}
+.navf2 ul li{
+    line-height: 30px;
+    list-style: none;
+}
+.yef{
+    height: 45px;
+    width: 273px;
+    border-radius: 6px;
+}
+.btnf{
+    height: 47px;
+    width: 172px;
+    background-color: rgb(62, 198, 255);
+    color: white;
+    border-radius: 6px;
+    margin-left: 20px;
+}
+.m1{
+    height: 40px;
+    width: 40px;
+    background: white;
+    border-radius: 50%;
+    margin: 21px;
+}
+.icons{
+    display: flex;
+    margin-top: 55px;
+    
+}
+.m11{
+    height: 40px;
+    width: 40px;
+    background: white;
+    border-radius: 50%;
+    margin-top: 21px;
+    margin-right: 21px;
+    
+}
+.ic1{
+    background: url(../pr16/img/twitter_icn.png);
+    height: 12px;
+    width: 14px;
+    margin-left: 13px;
+    margin-top: 13px;
+    background-size: cover;
+}
+.m11:hover{
+    background: rgb(62, 198, 255);
+}
+.ic2{
+    background: url(../pr16/img/instagram_icn.png);
+    height: 16px;
+    width: 16px;
+    margin-left: 12px;
+    margin-top: 12px;
+    background-size: cover;
+}
+.m1:hover{
+    background: rgb(62, 198, 255);
+}
+.ic3{
+    background: url(../pr16/img/facebook_icn.png);
+    height: 15px;
+    width: 8px;
+    margin-left: 16px;
+    margin-top: 12px;
+    background-size: cover;
+}
+.ic4{
+    background: url(../pr16/img/google_plus_icn.png);
+    height: 16px;
+    width: 21px;
+    margin-left: 12px;
+    margin-top: 12px;
+    background-size: cover;
+}
+.dividing_line {
+    background-color: rgb(226, 226, 226);
+    position: absolute;
+    left: 0px;
+    top: 374px;
+    width: 1400px;
+    height: 1px;
+  }
+.ruadetii{
+    position: absolute;
+    left: 115px;
+    top: 416px;
+    color: gray;
+}
+.cht{
+    position: absolute;
+    left: 986px;
+    top: 416px;
+    color: gray;
+    display: flex;
+    p{
+        margin-left: 10px;
+    }
+}
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+   
+  
+  
+  
+  

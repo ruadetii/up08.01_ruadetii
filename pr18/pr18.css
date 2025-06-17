@@ -1,0 +1,33 @@
+main{
+    display: flex;
+}
+.ph{
+    background: url(../pr18/img/Снимок\ экрана\ 2025-06-10\ в\ 14.49.47.png);
+    background-size: cover;
+    height: 380px;
+    width: 375px;
+}
+.s2{
+    background: rgb(230, 230, 230);
+    height: 370px;
+    width: 375px;
+    margin-top: 5px;
+    text-align: center;
+    p{
+        margin-top: 30px;
+        font-size: 20px;
+        color: rgb(113, 113, 113);
+    }
+    h3{
+        color: rgb(113, 113, 113);
+    }
+    
+}
+.bt{
+    background: black;
+    color: white;
+    height: 40px;
+    width: 160px;
+    font-size: 25px;
+    margin-top: 10px;
+}

@@ -1,0 +1,202 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background: rgb(45, 139, 255);
+    height: 100px;
+    display: flex;
+}
+h1{
+    text-transform: uppercase;
+    font-size: 60px;
+    text-align: center;
+    color: white;
+    margin: 0px;
+    padding-top: 15px;
+    margin-left: 300px;
+    
+}
+.content{
+    width: 60%;
+    margin: 0 auto;
+}
+.polos{
+    width: 1px;
+    height: 100px;
+    margin-left: 170px;
+    background-color: white;
+}
+.menu{
+    background: url(../pr17/img/9.png);
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+.prof{
+    background: url(../pr17/img/8.png);
+    background-size: cover;
+    width: 100%;
+    height: 402px;
+    display: flex;
+    
+}
+.angelina{
+    background: url(../pr17/img/1.png);
+    height: 220px;
+    width: 220px;
+    background-size: cover;
+    margin-top: 70px;
+    margin-left: 60px;
+}
+.a2{
+    margin-top: 40px;
+    margin-left: 200px;
+    color: white;
+    h2{
+        font-size: 48px;
+    }
+    h3{
+        font-size: 24px;
+    }
+}
+.join{
+    height: 60px;
+    width: 220px;
+    background-color: rgb(68, 195, 49);
+    color: white;
+    font-size: 38px;
+    display: flex;
+    p{
+        margin-top: 5px;
+        margin-left: 20px;
+    }
+}
+.plus{
+    background: url(../pr17/img/7.png);
+    background-size: cover;
+    height: 30px;
+    width: 30px;
+    margin-top: 10px;
+}
+.dva{
+    background: url(../pr17/img/2.png);
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left: 530px;
+    top: 180px;
+}
+.photo{
+    width: 100%;
+    height: 650px;
+    background-color: rgb(221, 221, 221);
+}
+.card1{
+    background: white;
+    height: 290px;
+    width: 320px;
+    border: 15px solid white;
+}
+.card2{
+    height: 200px;
+    width: 320px;
+    background: white;
+    margin-top: 30px;
+    border: 15px solid white;
+    
+}
+.photo{
+    display: flex;
+}
+.pc1{
+    background: url(../pr17/img/31.png);
+    height: 220px;
+    width: 320px;
+    background-size: cover;
+    
+}
+.f1{
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.ff{
+    display: flex;
+    color: gray;
+    h3{
+        margin-left: 120px;
+        margin-top: 24px;
+    }
+}
+.heart{
+    background: url(../pr17/img/6.png);
+    background-size: cover;
+    height: 23px;
+    width: 25px;
+    margin-top: 23px;
+    margin-left: 6px;
+}
+.pc2{
+    background: url(../pr17/img/33.png);
+    width: 320px;
+    height: 150px;
+    background-size: cover;
+}
+.tt{
+    display: flex;
+    color: gray;
+}
+.heart2{
+    background: url(../pr17/img/6.png);
+    background-size: cover;
+    height: 23px;
+    width: 25px;
+    margin-left: 195px;
+    margin-top: 17px;
+}
+.card3{
+    background: white;
+    width: 320px;
+    height: 410px;
+    border: 15px solid white;
+}
+.f2{
+    margin-top: 20px;
+    margin-left: 130px;
+}
+.pc3{
+    background: url(../pr17/img/32.png);
+    background-size: cover;
+    width: 320px;
+    height: 350px;
+}
+.ii{
+    display: flex;
+    color: gray;
+    h3{
+        margin-left: 190px;
+        margin-top: 25px;
+    }
+}
+.card4{
+    background: white;
+    width: 320px;
+    height: 200px;
+    border: 15px solid white;
+    margin-top: 25px;
+    h2{
+        text-align: center;
+        color: gray;
+    }
+}
+.pc4{
+    background: url(../pr17/img/21.png);
+    background-size: cover;
+    height: 60px;
+    width: 60px;
+    margin-left: 130px;
+    margin-top: 35px;
+    
+}

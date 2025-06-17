@@ -1,0 +1,48 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.f1{
+    background: url(../pr15/img/image\ 1.png);
+    background-size: cover;
+    grid-row: span 3;
+}
+.f2{
+    background: url(../pr15/img/image\ 2.png);
+    background-size: cover;
+    
+}
+.f3{
+    background: url(../pr15/img/image\ 3.png);
+    background-size: cover;
+    
+}
+.f4{
+    background: url(../pr15/img/image\ 4.png);
+    background-size: cover;
+    
+}
+.f5{
+    background: url(../pr15/img/image\ 5.png);
+    background-size: cover;
+    
+}
+.tt{
+    grid-column: span 2;
+}
+.content{
+    display: grid;
+    gap: 10px;
+    height: 631px;
+    width: 1312px;
+    grid-template-columns: 489px 430px 430px;
+    grid-template-rows: 290px 100px 290px 200px;
+    
+}
+h1{
+    text-align: center;
+}
+body{
+    width: 80%;
+    margin: 0 auto;
+}
+
